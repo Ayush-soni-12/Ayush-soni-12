@@ -29,7 +29,7 @@
 ## 🚀 Featured Projects
 
 ### 🏨 [LuxuryStay](https://github.com/Ayush-soni-12/LuxuryStay) — Full-Stack Hotel Booking Platform
-
+> 🌐 **Live:** [luxurystays.site/show](https://luxurystays.site/show)
 
 A production-deployed property listing & booking platform with complex booking logic, Google OAuth, real-time alerting, and full AWS deployment.
 
@@ -94,8 +94,20 @@ An AI-powered control plane that **autonomously optimises microservice performan
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Gen AI
+### Gen AI & Automation
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Backend & Event-Driven
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-5C4EE5?style=for-the-badge&logo=inngest&logoColor=white)
+
+### Security & Code Quality
+![Arcjet](https://img.shields.io/badge/Arcjet-FF4A4A?style=for-the-badge&logo=shield&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-F97316?style=for-the-badge&logo=rabbit&logoColor=white)
 
 </div>
 
@@ -125,7 +137,7 @@ An AI-powered control plane that **autonomously optimises microservice performan
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhirsonii9889@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-soni-12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+
 
 </div>
 
