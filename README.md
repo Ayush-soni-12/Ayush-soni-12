@@ -29,7 +29,7 @@
 ## 🚀 Featured Projects
 
 ### 🏨 [LuxuryStay](https://github.com/Ayush-soni-12/LuxuryStay) — Full-Stack Hotel Booking Platform
-> 🌐 **Live:** [luxurystays.site/show](https://luxurystays.site/show)
+
 
 A production-deployed property listing & booking platform with complex booking logic, Google OAuth, real-time alerting, and full AWS deployment.
 
@@ -46,6 +46,7 @@ A production-deployed property listing & booking platform with complex booking l
 ---
 
 ### 🤖 [AI Control Plane](https://github.com/Ayush-soni-12/AI_CONTROL_PLANE) — Intelligent Microservice Optimizer
+> 🌐 **Live:** [neuralcontrol.online](https://neuralcontrol.online)
 
 An AI-powered control plane that **autonomously optimises microservice performance** using **LangGraph + Gemini API** — analysing p50/p95/p99 latency signals to make real-time decisions.
 
