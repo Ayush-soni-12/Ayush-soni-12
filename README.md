@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ayush Soni 👋
 
-### Full-Stack Engineer · Backend Specialist · Gen-AI Developer
+### Full-Stack Developer · Backend Developer · Gen-AI Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=600\&lines=Building+Production-Grade+Backend+Systems;AI+%7C+Cloud+%7C+Microservices;Node.js+%7C+FastAPI+%7C+NestJS+%7C+LangGraph;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
